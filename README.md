@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sr-properties
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# srproperties
+>>>>>>> 435610a7f8830a8be5ddadae1af527793bb9e8f0
